@@ -1,0 +1,45 @@
+.btn-space {
+    margin: 5px;
+}
+
+#buttons {
+    padding: 5px;
+}
+
+img:hover, #addBtn:hover {
+    cursor: pointer;
+}
+
+.input-group {
+    margin-left: 10px;
+}
+
+label {
+    color: #2e6da4;
+    margin-bottom: 10px;
+}
+
+.panel {
+   margin: 5px;
+   -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0); 
+    box-shadow: 0 1px 1px rgba(0,0,0,0);
+}
+
+.panel, .panel-body {
+    display: inline-block;
+}
+
+.panel-body {
+    padding: 5px;
+}
+
+.panel-default {
+    border-color: transparent;
+}
+
+.panel-footer {
+    padding: 5px 5px 5px 5px;
+    background-color: transparent;
+    border-top: 1px solid transparent;
+}
+
